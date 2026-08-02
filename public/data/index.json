@@ -1,0 +1,47 @@
+{
+  "dataYear": 2024,
+  "updatedAt": "2026-04",
+  "years": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+  "count": 7739,
+  "features": 10534,
+  "representatives": 9396,
+  "noData": 1626,
+  "complete14Years": 6138,
+  "types": [
+    {
+      "code": 1,
+      "name": "JR新幹線",
+      "count": 48
+    },
+    {
+      "code": 2,
+      "name": "JR在来線",
+      "count": 2638
+    },
+    {
+      "code": 3,
+      "name": "公営鉄道",
+      "count": 526
+    },
+    {
+      "code": 4,
+      "name": "民営鉄道",
+      "count": 3220
+    },
+    {
+      "code": 5,
+      "name": "第三セクター",
+      "count": 1307
+    }
+  ],
+  "source": {
+    "title": "国土数値情報 駅別乗降客数データ（2024年度）",
+    "sourcePage": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-S12-2024.html",
+    "download": "https://nlftp.mlit.go.jp/ksj/gml/data/S12/S12-25/S12-25_GML.zip",
+    "retrievedAt": "2026-08-02",
+    "bytes": 6913743,
+    "sha256": "0785e932a32b3ec15e1a1345537ae145eafe1c07bf38d5c16c11ee2b391e7a28",
+    "license": "CC BY 4.0",
+    "coordinateSystem": "JGD2011"
+  }
+}

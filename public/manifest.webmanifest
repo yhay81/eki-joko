@@ -1,0 +1,10 @@
+{
+  "name": "駅乗降くらべ",
+  "short_name": "駅乗降",
+  "description": "全国の駅別乗降客数を駅名・事業者・路線から探して14年で比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f0e7",
+  "theme_color": "#182f48",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
